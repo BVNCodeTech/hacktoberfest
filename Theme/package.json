@@ -1,0 +1,57 @@
+{
+	"name": "AbyssPlus",
+	"displayName": "Abyss+",
+	"description": "So it is basically the Abyss theme with few tweaks here and there to suit my style",
+	"publisher": "PraveerSinghChauhan",
+	"author": {
+		"name": "Praveer Singh Chauhan"
+	},
+	"version": "0.0.4",
+	"engines": {
+		"vscode": "^1.57.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Veerhan-glitch/AbyssPlus-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/Veerhan-glitch/AbyssPlus-vscode-theme/issues"
+	},
+	"galleryBanner": {
+		"color": "#09131b",
+		"theme": "dark"
+	},
+	"icon": "Images/Abyss+Icon.png",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Abyss",
+		"Abyss+",
+		"AbyssPlus",
+		"Dark Theme",
+		"Theme",
+		"Themes"
+	],
+	"badges": [],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Abyss+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Abyss+-color-theme.json"
+			},
+			{
+				"label": "Abyss+No_Italic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Abyss+No_Italic-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "ab6235d1-24f0-4774-ba2a-7e96d6ce3954",
+		"publisherId": "70c109ee-9019-4a5e-a3f1-2d82bd324834",
+		"publisherDisplayName": "Praveer Singh Chauhan",
+		"installedTimestamp": 1623813574710
+	}
+}
